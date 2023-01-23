@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 💙 by Nivolas
+Feito com 💙 by <a href="https://github.com/nimilitao" target="_blank">Nicolas Militão Livotto</a>
